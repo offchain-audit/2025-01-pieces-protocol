@@ -13,8 +13,7 @@
 
 ### Stats
 
-- nSLOC:
-- Complexity Score:
+- nSLOC: 181
 
 [//]: # "contest-details-open"
 
