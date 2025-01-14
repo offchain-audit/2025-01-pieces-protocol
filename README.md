@@ -15,7 +15,7 @@
 
 - nSLOC: 181
 
-[//]: # "contest-details-open"
+[//]: # (contest-details-open)
 
 ## About the Project
 
@@ -28,7 +28,7 @@ A new marketplace where users can buy a fraction of an nft and trade with this o
 - Buyer: The purchaser of the nft fraction.
 - Seller: The seller of the nft fraction
 
-[//]: # "contest-details-close"
+[//]: # (contest-details-close)
 
 ## Scope (contracts)
 
@@ -51,8 +51,8 @@ Tokens:
 - ETH
 - ERC721 Standard
 
-[//]: # "scope-close"
-[//]: # "getting-started-open"
+[//]: # (scope-close)
+[//]: # (getting-started-open)
 
 ## Setup
 
@@ -72,11 +72,11 @@ Tests:
 forge test
 ```
 
-[//]: # "getting-started-close"
-[//]: # "known-issues-open"
+[//]: # (getting-started-close)
+[//]: # (known-issues-open)
 
 ## Known Issues
 
 No known issues reported
 
-[//]: # "known-issues-close"
+[//]: # (known-issues-close)
