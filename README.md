@@ -29,7 +29,7 @@ A new marketplace where users can buy a fraction of an nft and trade with this o
 - Seller: The seller of the nft fraction
 
 [//]: # (contest-details-close)
-
+[//]: # (scope-open)
 ## Scope (contracts)
 
 ```
