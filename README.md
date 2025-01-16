@@ -59,7 +59,7 @@ Tokens:
 Build:
 
 ```bash
-git clone https://github.com/JuanPeVentura/NftFractionMarketplace.git
+git clone https://github.com/Cyfrin/2025-01-pieces-protocol.git
 
 make install
 
